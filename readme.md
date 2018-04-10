@@ -5,3 +5,5 @@
 * Fetch
 * Push
 * Branches
+* GitHub Classroom
+* Student Programs
